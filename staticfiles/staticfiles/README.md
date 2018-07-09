@@ -1,2 +1,0 @@
-# djangoexample
-djangoexample
